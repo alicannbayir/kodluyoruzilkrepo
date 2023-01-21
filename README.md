@@ -4,7 +4,7 @@ Kodluyoruz Veribilimi eğitiminde açtığım ilk repo
 # Installation
 Öncelikle projeyi klonlayın(Buraya oluşturduğumuz repodan alcağımız link gelicek)
 
-[git clone](https://github.com/alicannbayir/kodluyoruzilkrepo.git)
+> git clone (https://github.com/alicannbayir/kodluyoruzilkrepo.git)
 
 # Useage
 
@@ -18,3 +18,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # License
 MIT
+
